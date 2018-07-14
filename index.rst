@@ -13,7 +13,7 @@
   
   荔枝糖 - Lichee Tang
  
-荔枝糖使用 anlogic 的 ELF2 作为核心单元, **20K LE，约130KB SRAM，丰富的lvds引脚，内置ADC** ，这为荔枝糖提供了无限的可能性：
+荔枝糖使用 anlogic 的 EG4S20 作为核心单元, **20K LE，约130KB SRAM，丰富的lvds引脚，内置ADC** ，这为荔枝糖提供了无限的可能性：
 
 - FPC40P座，可接 RGB LCD，VGA转接板，高速DAC模块
 - FPC24P座，可接DVP摄像头，高速ADC模块
@@ -33,7 +33,7 @@
 - 双排插针间距900mil， **兼容面包板开发** 。
 - 半孔引出额外 **40 IO**，整板引出 **130+ IO** 。
 
-.. figure:: http://odfef978i.bkt.clouddn.com/E203_func.png
+.. figure:: http://odfef978i.bkt.clouddn.com/E203_function.png
   :align: center
   
   荔枝糖资源图
@@ -43,7 +43,7 @@
   
   荔枝糖引脚图
 
-您可能需要这些来进一步了解荔枝糖： `ELF2 Datasheet <http://odfef978i.bkt.clouddn.com/elf2_datasheet_v1.0.pdf>`_ | `荔枝糖原理图 <http://odfef978i.bkt.clouddn.com/LicheeTang_RV.pdf>`_
+您可能需要这些来进一步了解荔枝糖： `EG4S20 Datasheet <http://odfef978i.bkt.clouddn.com/EG4S20_DataSheet_V1.4.pdf>`_ | `荔枝糖原理图 <http://odfef978i.bkt.clouddn.com/LicheeTang_RV.pdf>`_
 
 荔枝糖仍在不断地成长，对于外观、电路设计、文档内容甚至于荔枝糖的发展方向，我们都欢迎您到 `荔枝糖 | 建议与讨论帖 <http://bbs.lichee.pro/d/61-->`_ 提出您宝贵的建议。
  
