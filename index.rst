@@ -13,7 +13,7 @@
   
   荔枝糖 - Lichee Tang
  
-荔枝糖使用 anlogic 的 EG4S20 作为核心单元, **20K LE，约130KB SRAM，丰富的lvds引脚，内置ADC** ，这为荔枝糖提供了无限的可能性：
+荔枝糖使用 anlogic 的 EG4S20 作为核心单元, **20K LE，约130KB SRAM，内置32bit位宽 64MBit SDRAM，丰富的lvds引脚，内置ADC** ，这为荔枝糖提供了无限的可能性：
 
 - FPC40P座，可接 RGB LCD，VGA转接板，高速DAC模块
 - FPC24P座，可接DVP摄像头，高速ADC模块
